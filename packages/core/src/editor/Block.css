@@ -247,6 +247,7 @@ NESTED BLOCKS
   margin-right: 8px;
   margin-top: 0;
   width: 12px;
+  user-select: none;
 }
 
 .bn-block-content[data-content-type="checkListItem"][data-checked="true"]
