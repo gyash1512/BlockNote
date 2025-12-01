@@ -58,7 +58,7 @@
     "clean": "rimraf dist && rimraf types"
   },
   "dependencies": {
-    "@blocknote/core": "0.42.3",
+    "@blocknote/core": "git+https://github.com/gyash1512/BlockNote.git#selfrepo:packages/core",
     "@emoji-mart/data": "^1.2.1",
     "@floating-ui/react": "^0.27.16",
     "@tiptap/core": "^3.11.0",

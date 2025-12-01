@@ -61,8 +61,8 @@
     "clean": "rimraf dist && rimraf types"
   },
   "dependencies": {
-    "@blocknote/core": "0.42.3",
-    "@blocknote/react": "0.42.3",
+    "@blocknote/core": "git+https://github.com/gyash1512/BlockNote.git#selfrepo:packages/core",
+    "@blocknote/react": "git+https://github.com/gyash1512/BlockNote.git#selfrepo:packages/react",
     "react-icons": "^5.5.0"
   },
   "devDependencies": {
